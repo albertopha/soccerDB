@@ -1,1 +1,0 @@
-from enrollment.application.routes.api.api import api_routes
