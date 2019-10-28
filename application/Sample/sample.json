@@ -1,0 +1,1796 @@
+[
+  {
+    "competition": {
+      "id": 13,
+      "name": "ITALY: Serie A",
+      "url": "https://www.scorebat.com/italy-serie-a-live-scores/"
+    },
+    "date": "2019-10-27T17:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/865546/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Roma",
+      "url": "https://www.scorebat.com/live-stream/roma/"
+    },
+    "side2": {
+      "name": "AC Milan",
+      "url": "https://www.scorebat.com/live-stream/ac-milan/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og865546.jpeg",
+    "title": "Roma - AC Milan",
+    "url": "https://www.scorebat.com/ac-milan-vs-roma-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5fa7003df7/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5df5c6434d/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "2-1 Zaniolo 58'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5de58eb119/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-1 Hernández 55'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5d653b4dab/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-0 Dzeko 38'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 15,
+      "name": "ENGLAND: Premier League",
+      "url": "https://www.scorebat.com/england-premier-league-live-scores/"
+    },
+    "date": "2019-10-27T16:30:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/820943/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Liverpool",
+      "url": "https://www.scorebat.com/live-stream/liverpool/"
+    },
+    "side2": {
+      "name": "Tottenham Hotspur",
+      "url": "https://www.scorebat.com/live-stream/tottenham-hotspur/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og820943.jpeg",
+    "title": "Liverpool - Tottenham Hotspur",
+    "url": "https://www.scorebat.com/liverpool-vs-tottenham-hotspur-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5e24e7b1b5/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5dbf601572/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "2-1 Salah  (p) 75'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5d69d1c659/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-1 Henderson 52'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5c668eab11/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "0-1 Kane 1'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 10,
+      "name": "FRANCE: Ligue 1",
+      "url": "https://www.scorebat.com/france-ligue-1-live-scores/"
+    },
+    "date": "2019-10-27T20:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/821495/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "PSG",
+      "url": "https://www.scorebat.com/live-stream/psg/"
+    },
+    "side2": {
+      "name": "Marseille",
+      "url": "https://www.scorebat.com/live-stream/marseille/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og821495.jpeg",
+    "title": "PSG - Marseille",
+    "url": "https://www.scorebat.com/marseille-vs-psg-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db602dbb1078/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "4-0 Mbappé 44'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db600316a305/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "3-0 Mbappé 32'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5fed5c0de0/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "2-0 Icardi 26'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5fb103e9f1/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-0 Icardi 10'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 15,
+      "name": "ENGLAND: Premier League",
+      "url": "https://www.scorebat.com/england-premier-league-live-scores/"
+    },
+    "date": "2019-10-27T16:30:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/820940/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Arsenal",
+      "url": "https://www.scorebat.com/live-stream/arsenal/"
+    },
+    "side2": {
+      "name": "Crystal Palace",
+      "url": "https://www.scorebat.com/live-stream/crystal-palace/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og820940.jpeg",
+    "title": "Arsenal - Crystal Palace",
+    "url": "https://www.scorebat.com/arsenal-vs-crystal-palace-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5e3ef188dc/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5d7b12df8f/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "2-2 Ayew 52'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5d6952b923/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "2-1 Milivojević  (p) 32'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5c8c18b933/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "2-0 David Luiz 9'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5c85b079b5/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-0 Papastathopoulos 7'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 15,
+      "name": "ENGLAND: Premier League",
+      "url": "https://www.scorebat.com/england-premier-league-live-scores/"
+    },
+    "date": "2019-10-27T16:30:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/820946/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Norwich City",
+      "url": "https://www.scorebat.com/live-stream/norwich-city/"
+    },
+    "side2": {
+      "name": "Manchester United",
+      "url": "https://www.scorebat.com/live-stream/manchester-united/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og820946.jpeg",
+    "title": "Norwich City - Manchester United",
+    "url": "https://www.scorebat.com/manchester-united-vs-norwich-city-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5e2ec5d8ae/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5df9762d07/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-3 Hernández 88'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5dbd87325f/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "0-3 Martial 73'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5d30f9ae4d/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Martial's penalty saved"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5ce11df2e0/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "0-2 Rashford"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5cda53ab58/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Rashford's penalty saved"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5cb5e3d521/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "0-1 Mctominay"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 13,
+      "name": "ITALY: Serie A",
+      "url": "https://www.scorebat.com/italy-serie-a-live-scores/"
+    },
+    "date": "2019-10-27T14:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/865547/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Spal",
+      "url": "https://www.scorebat.com/live-stream/spal/"
+    },
+    "side2": {
+      "name": "Napoli",
+      "url": "https://www.scorebat.com/live-stream/napoli/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og865547.jpeg",
+    "title": "Spal - Napoli",
+    "url": "https://www.scorebat.com/napoli-vs-spal-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5d0227536a/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 1131,
+      "name": "KAZAKHSTAN: Premier League",
+      "url": "https://www.scorebat.com/kazakhstan-premier-league-live-scores/"
+    },
+    "date": "2019-10-27T14:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/891335/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Astana",
+      "url": "https://www.scorebat.com/live-stream/astana/"
+    },
+    "side2": {
+      "name": "Aktobe",
+      "url": "https://www.scorebat.com/live-stream/aktobe/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og891335.jpeg",
+    "title": "Astana - Aktobe",
+    "url": "https://www.scorebat.com/aktobe-vs-astana-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db602db801ea/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db602db87a02/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db602db8c19e/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db602db91b65/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db602db960f5/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db602db9ad78/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5c8aad6937/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 13,
+      "name": "ITALY: Serie A",
+      "url": "https://www.scorebat.com/italy-serie-a-live-scores/"
+    },
+    "date": "2019-10-27T14:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/865548/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Torino",
+      "url": "https://www.scorebat.com/live-stream/torino/"
+    },
+    "side2": {
+      "name": "Cagliari",
+      "url": "https://www.scorebat.com/live-stream/cagliari/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og865548.jpeg",
+    "title": "Torino - Cagliari",
+    "url": "https://www.scorebat.com/cagliari-vs-torino-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db602c691e03/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5cda7c8e39/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5c357974bb/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-1 Zaza 69'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5c374af289/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "0-1 Nández 40'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 68,
+      "name": "PORTUGAL: Primeira Liga",
+      "url": "https://www.scorebat.com/portugal-primeira-liga-live-scores/"
+    },
+    "date": "2019-10-27T15:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/832418/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Tondela",
+      "url": "https://www.scorebat.com/live-stream/tondela/"
+    },
+    "side2": {
+      "name": "Benfica",
+      "url": "https://www.scorebat.com/live-stream/benfica/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og832418.jpeg",
+    "title": "Tondela - Benfica",
+    "url": "https://www.scorebat.com/benfica-vs-tondela-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db602c1007c4/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db602c1062e9/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5d10624589/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5ba1833176/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "0-1 Ferro 19'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 126,
+      "name": "UKRAINE: Premier League",
+      "url": "https://www.scorebat.com/ukraine-premier-league-live-scores/"
+    },
+    "date": "2019-10-27T15:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/837584/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Dynamo K.",
+      "url": "https://www.scorebat.com/live-stream/dynamo-k/"
+    },
+    "side2": {
+      "name": "Karpaty",
+      "url": "https://www.scorebat.com/live-stream/karpaty/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og837584.jpeg",
+    "title": "Dynamo K. - Karpaty",
+    "url": "https://www.scorebat.com/dynamo-k-vs-karpaty-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db602b249901/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5d20a3f620/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5ceea35b4c/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 3,
+      "name": "RUSSIA: Premier League",
+      "url": "https://www.scorebat.com/russia-premier-league-live-scores/"
+    },
+    "date": "2019-10-27T16:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/824099/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "FK Krasnodar",
+      "url": "https://www.scorebat.com/live-stream/fk-krasnodar/"
+    },
+    "side2": {
+      "name": "Orenburg",
+      "url": "https://www.scorebat.com/live-stream/orenburg/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og824099.jpeg",
+    "title": "FK Krasnodar - Orenburg",
+    "url": "https://www.scorebat.com/fk-krasnodar-vs-orenburg-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db60225343b6/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5ebac00e3d/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5ca58a9d8b/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-1 Manuel Fernandes 43'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5c796d5048/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "0-1 Djordje Despotovic 32'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 1705,
+      "name": "INDONESIA: Liga 1",
+      "url": "https://www.scorebat.com/indonesia-liga-1-live-scores/"
+    },
+    "date": "2019-10-27T11:30:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/814138/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Bali United",
+      "url": "https://www.scorebat.com/live-stream/bali-united/"
+    },
+    "side2": {
+      "name": "Barito Putera",
+      "url": "https://www.scorebat.com/live-stream/barito-putera/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og814138.jpeg",
+    "title": "Bali United - Barito Putera",
+    "url": "https://www.scorebat.com/bali-united-vs-barito-putera-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db6014947e21/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 14,
+      "name": "SPAIN: La Liga",
+      "url": "https://www.scorebat.com/spain-la-liga-live-scores/"
+    },
+    "date": "2019-10-27T20:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/826600/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Osasuna",
+      "url": "https://www.scorebat.com/live-stream/osasuna/"
+    },
+    "side2": {
+      "name": "Valencia",
+      "url": "https://www.scorebat.com/live-stream/valencia/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og826600.jpeg",
+    "title": "Osasuna - Valencia",
+    "url": "https://www.scorebat.com/osasuna-vs-valencia-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5ff92ecc57/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-1 Oier 34'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5faa4198de/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "0-1 Rodrigo 14'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 16,
+      "name": "NETHERLANDS: Eredivisie",
+      "url": "https://www.scorebat.com/netherlands-eredivisie-live-scores/"
+    },
+    "date": "2019-10-27T15:45:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/829139/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Ajax",
+      "url": "https://www.scorebat.com/live-stream/ajax/"
+    },
+    "side2": {
+      "name": "Feyenoord",
+      "url": "https://www.scorebat.com/live-stream/feyenoord/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og829139.jpeg",
+    "title": "Ajax - Feyenoord",
+    "url": "https://www.scorebat.com/ajax-vs-feyenoord-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5ff401f8d7/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5d76c2213e/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5c55e32ebf/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "4-0 van de Beek 40'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5c4916eeee/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "3-0 David Neres 37'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5c7e77780c/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "2-0 Nicolas Tagliafico 7'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5c7f938ba3/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-0 Hakim Ziyech 3'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 68,
+      "name": "PORTUGAL: Primeira Liga",
+      "url": "https://www.scorebat.com/portugal-primeira-liga-live-scores/"
+    },
+    "date": "2019-10-27T20:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/832420/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Sporting",
+      "url": "https://www.scorebat.com/live-stream/sporting/"
+    },
+    "side2": {
+      "name": "Guimaraes",
+      "url": "https://www.scorebat.com/live-stream/guimaraes/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og832420.jpeg",
+    "title": "Sporting - Guimaraes",
+    "url": "https://www.scorebat.com/guimaraes-vs-sporting-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5ff37bc657/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "2-0 Marcos Acuna 32'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5febdbc236/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-0 Jese 29'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 1705,
+      "name": "INDONESIA: Liga 1",
+      "url": "https://www.scorebat.com/indonesia-liga-1-live-scores/"
+    },
+    "date": "2019-10-27T08:30:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/814142/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Kalteng Putra",
+      "url": "https://www.scorebat.com/live-stream/kalteng-putra/"
+    },
+    "side2": {
+      "name": "Persela Lamongan",
+      "url": "https://www.scorebat.com/live-stream/persela-lamongan/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og814142.jpeg",
+    "title": "Kalteng Putra - Persela Lamongan",
+    "url": "https://www.scorebat.com/kalteng-putra-vs-persela-lamongan-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5fe6c9bbf4/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 16,
+      "name": "NETHERLANDS: Eredivisie",
+      "url": "https://www.scorebat.com/netherlands-eredivisie-live-scores/"
+    },
+    "date": "2019-10-27T13:30:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/829138/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "PSV",
+      "url": "https://www.scorebat.com/live-stream/psv/"
+    },
+    "side2": {
+      "name": "AZ",
+      "url": "https://www.scorebat.com/live-stream/az/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og829138.jpeg",
+    "title": "PSV - AZ",
+    "url": "https://www.scorebat.com/az-vs-psv-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5fbd7333cd/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5b244458dd/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "0-4"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5b15b1ed13/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "0-3"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5a753d5419/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "0-2"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 13,
+      "name": "ITALY: Serie A",
+      "url": "https://www.scorebat.com/italy-serie-a-live-scores/"
+    },
+    "date": "2019-10-27T19:45:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/865541/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Fiorentina",
+      "url": "https://www.scorebat.com/live-stream/fiorentina/"
+    },
+    "side2": {
+      "name": "Lazio",
+      "url": "https://www.scorebat.com/live-stream/lazio/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og865541.jpeg",
+    "title": "Fiorentina - Lazio",
+    "url": "https://www.scorebat.com/fiorentina-vs-lazio-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5faf30d16d/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-1 Chiesa 27'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5fa0c3a0a5/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "0-1 Correa 22'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 749,
+      "name": "BELARUS: Premier League",
+      "url": "https://www.scorebat.com/belarus-premier-league-live-scores/"
+    },
+    "date": "2019-10-27T14:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/797069/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Vitebsk",
+      "url": "https://www.scorebat.com/live-stream/vitebsk/"
+    },
+    "side2": {
+      "name": "Torpedo-BelAZ",
+      "url": "https://www.scorebat.com/live-stream/torpedobelaz/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og797069.jpeg",
+    "title": "Vitebsk - Torpedo-BelAZ",
+    "url": "https://www.scorebat.com/torpedobelaz-vs-vitebsk-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5fa2382c0b/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 749,
+      "name": "BELARUS: Premier League",
+      "url": "https://www.scorebat.com/belarus-premier-league-live-scores/"
+    },
+    "date": "2019-10-27T16:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/797070/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Shakhtyor Soligorsk",
+      "url": "https://www.scorebat.com/live-stream/shakhtyor-soligorsk/"
+    },
+    "side2": {
+      "name": "BATE",
+      "url": "https://www.scorebat.com/live-stream/bate/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og797070.jpeg",
+    "title": "Shakhtyor Soligorsk - BATE",
+    "url": "https://www.scorebat.com/bate-vs-shakhtyor-soligorsk-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5fa1ea5d37/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 1107,
+      "name": "AZERBAIJAN: Premier League",
+      "url": "https://www.scorebat.com/azerbaijan-premier-league-live-scores/"
+    },
+    "date": "2019-10-27T13:30:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/896432/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Sumgayit",
+      "url": "https://www.scorebat.com/live-stream/sumgayit/"
+    },
+    "side2": {
+      "name": "Neftci Baku",
+      "url": "https://www.scorebat.com/live-stream/neftci-baku/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og896432.jpeg",
+    "title": "Sumgayit - Neftci Baku",
+    "url": "https://www.scorebat.com/neftci-baku-vs-sumgayit-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5f7f816011/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 3,
+      "name": "RUSSIA: Premier League",
+      "url": "https://www.scorebat.com/russia-premier-league-live-scores/"
+    },
+    "date": "2019-10-27T13:30:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/824101/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "CSKA",
+      "url": "https://www.scorebat.com/live-stream/cska/"
+    },
+    "side2": {
+      "name": "Dinamo",
+      "url": "https://www.scorebat.com/live-stream/dinamo/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og824101.jpeg",
+    "title": "CSKA - Dinamo",
+    "url": "https://www.scorebat.com/cska-vs-dinamo-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5f6286e4c2/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5be9329bab/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 68,
+      "name": "PORTUGAL: Primeira Liga",
+      "url": "https://www.scorebat.com/portugal-primeira-liga-live-scores/"
+    },
+    "date": "2019-10-27T17:30:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/832416/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Porto",
+      "url": "https://www.scorebat.com/live-stream/porto/"
+    },
+    "side2": {
+      "name": "Familcao",
+      "url": "https://www.scorebat.com/live-stream/familcao/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og832416.jpeg",
+    "title": "Porto - Familcao",
+    "url": "https://www.scorebat.com/familcao-vs-porto-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5f5f880b75/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5edf9c6f0d/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "3-0 Fabio Silva 88'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5ec412de8d/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "2-0 Tiquinho Soares 72'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5e1e3517c2/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-0 Luis Diaz 45'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 208,
+      "name": "GREECE: Super League 1",
+      "url": "https://www.scorebat.com/greece-super-league-1-live-scores/"
+    },
+    "date": "2019-10-27T17:30:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/853051/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Olympiakos",
+      "url": "https://www.scorebat.com/live-stream/olympiakos/"
+    },
+    "side2": {
+      "name": "AEK",
+      "url": "https://www.scorebat.com/live-stream/aek/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og853051.jpeg",
+    "title": "Olympiakos - AEK",
+    "url": "https://www.scorebat.com/aek-vs-olympiakos-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5f1a5f0879/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "2-0 Mady Camara 77'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5f19ea8258/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-0 Rúben Semedo 9'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 14,
+      "name": "SPAIN: La Liga",
+      "url": "https://www.scorebat.com/spain-la-liga-live-scores/"
+    },
+    "date": "2019-10-27T17:30:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/826601/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Sevilla",
+      "url": "https://www.scorebat.com/live-stream/sevilla/"
+    },
+    "side2": {
+      "name": "Getafe",
+      "url": "https://www.scorebat.com/live-stream/getafe/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og826601.jpeg",
+    "title": "Sevilla - Getafe",
+    "url": "https://www.scorebat.com/getafe-vs-sevilla-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5f0b65fea4/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5ebb27d685/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "2-0 Ocampos 78'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5e9a8babee/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-0 Javier Chicharito Hernández 69'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 11,
+      "name": "GERMANY: Bundesliga",
+      "url": "https://www.scorebat.com/germany-bundesliga-live-scores/"
+    },
+    "date": "2019-10-27T17:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/823150/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Borussia Monchengladbach",
+      "url": "https://www.scorebat.com/live-stream/borussia-monchengladbach/"
+    },
+    "side2": {
+      "name": "Eintracht Frankfurt",
+      "url": "https://www.scorebat.com/live-stream/eintracht-frankfurt/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og823150.jpeg",
+    "title": "Borussia Monchengladbach - Eintracht Frankfurt",
+    "url": "https://www.scorebat.com/borussia-monchengladbach-vs-eintracht-frankfurt-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5ecca10721/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5e5f2cfa4d/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "4-2 Zakaria 85'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5e46fd5fac/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "3-2 Hinteregger 79'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5e00a31735/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "2-1 da Costa 59'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5d8ba02926/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "2-0 Wendt 45+2'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5d5bc14043/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-0 Thuram 28'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 3,
+      "name": "RUSSIA: Premier League",
+      "url": "https://www.scorebat.com/russia-premier-league-live-scores/"
+    },
+    "date": "2019-10-27T13:30:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/824102/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Lokomotiv",
+      "url": "https://www.scorebat.com/live-stream/lokomotiv/"
+    },
+    "side2": {
+      "name": "Spartak",
+      "url": "https://www.scorebat.com/live-stream/spartak/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og824102.jpeg",
+    "title": "Lokomotiv - Spartak",
+    "url": "https://www.scorebat.com/lokomotiv-vs-spartak-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5eb05f2c52/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5bbb917dfe/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 1104,
+      "name": "SAUDI ARABIA: Pro League",
+      "url": "https://www.scorebat.com/saudi-arabia-pro-league-live-scores/"
+    },
+    "date": "2019-10-27T16:55:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/878268/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Al Hilal Riyadh",
+      "url": "https://www.scorebat.com/live-stream/al-hilal-riyadh/"
+    },
+    "side2": {
+      "name": "Al Nasr Riyadh",
+      "url": "https://www.scorebat.com/live-stream/al-nasr-riyadh/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og878268.jpeg",
+    "title": "Al Hilal Riyadh - Al Nasr Riyadh",
+    "url": "https://www.scorebat.com/al-hilal-riyadh-vs-al-nasr-riyadh-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5e300986d2/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-2 Abderrazak Hamdallah 73’ —"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5e04977b86/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-1 Abderrazak Hamdallah 54’ —"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5d4fee11bd/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-0 Carlos Eduardo 31’ —"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 66,
+      "name": "POLAND: Ekstraklasa",
+      "url": "https://www.scorebat.com/poland-ekstraklasa-live-scores/"
+    },
+    "date": "2019-10-27T16:30:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/831325/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Legia",
+      "url": "https://www.scorebat.com/live-stream/legia/"
+    },
+    "side2": {
+      "name": "Wisla Krakow",
+      "url": "https://www.scorebat.com/live-stream/wisla-krakow/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og831325.jpeg",
+    "title": "Legia - Wisla Krakow",
+    "url": "https://www.scorebat.com/legia-vs-wisla-krakow-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5e0dde4995/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "7-0"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 14,
+      "name": "SPAIN: La Liga",
+      "url": "https://www.scorebat.com/spain-la-liga-live-scores/"
+    },
+    "date": "2019-10-27T15:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/826599/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Levante",
+      "url": "https://www.scorebat.com/live-stream/levante/"
+    },
+    "side2": {
+      "name": "Espanyol",
+      "url": "https://www.scorebat.com/live-stream/espanyol/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og826599.jpeg",
+    "title": "Levante - Espanyol",
+    "url": "https://www.scorebat.com/espanyol-vs-levante-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5e03cbdd40/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5cbbbd41b2/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5c3352b3cf/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "0-1 Bernardo Espinosa 38'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 10,
+      "name": "FRANCE: Ligue 1",
+      "url": "https://www.scorebat.com/france-ligue-1-live-scores/"
+    },
+    "date": "2019-10-27T16:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/821492/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Saint-Etienne",
+      "url": "https://www.scorebat.com/live-stream/saintetienne/"
+    },
+    "side2": {
+      "name": "Amiens",
+      "url": "https://www.scorebat.com/live-stream/amiens/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og821492.jpeg",
+    "title": "Saint-Etienne - Amiens",
+    "url": "https://www.scorebat.com/amiens-vs-saintetienne-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5d74033b10/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "2-2 Bouanga 80'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5d663e1333/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-2 Akolo 76'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5d5ca1e950/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-1 Mendoza 68'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5caedae54b/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-0 Khazri 45'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 13,
+      "name": "ITALY: Serie A",
+      "url": "https://www.scorebat.com/italy-serie-a-live-scores/"
+    },
+    "date": "2019-10-27T14:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/865539/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Atalanta",
+      "url": "https://www.scorebat.com/live-stream/atalanta/"
+    },
+    "side2": {
+      "name": "Udinese",
+      "url": "https://www.scorebat.com/live-stream/udinese/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og865539.jpeg",
+    "title": "Atalanta - Udinese",
+    "url": "https://www.scorebat.com/atalanta-vs-udinese-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5d45ff016f/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 1104,
+      "name": "SAUDI ARABIA: Pro League",
+      "url": "https://www.scorebat.com/saudi-arabia-pro-league-live-scores/"
+    },
+    "date": "2019-10-27T15:25:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/878272/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Al Ittihad Jeddah",
+      "url": "https://www.scorebat.com/live-stream/al-ittihad-jeddah/"
+    },
+    "side2": {
+      "name": "Abha",
+      "url": "https://www.scorebat.com/live-stream/abha/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og878272.jpeg",
+    "title": "Al Ittihad Jeddah - Abha",
+    "url": "https://www.scorebat.com/abha-vs-al-ittihad-jeddah-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5cd39b63c9/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-2 Reuben Gabriel 72’ —"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5cba050e9e/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-1 Romarinho 60’"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5bcd3b9d36/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "0-1 Karim Aouadhi 22’ —"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 12,
+      "name": "SCOTLAND: Premier League",
+      "url": "https://www.scorebat.com/scotland-premier-league-live-scores/"
+    },
+    "date": "2019-10-27T15:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/832891/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Rangers",
+      "url": "https://www.scorebat.com/live-stream/rangers/"
+    },
+    "side2": {
+      "name": "Motherwell",
+      "url": "https://www.scorebat.com/live-stream/motherwell/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og832891.jpeg",
+    "title": "Rangers - Motherwell",
+    "url": "https://www.scorebat.com/motherwell-vs-rangers-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5c9cb768a9/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "2-1 Helander"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 1212,
+      "name": "GEORGIA: Erovnuli Liga",
+      "url": "https://www.scorebat.com/georgia-erovnuli-liga-live-scores/"
+    },
+    "date": "2019-10-27T14:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/797583/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Lokomotiv Tbilisi",
+      "url": "https://www.scorebat.com/live-stream/lokomotiv-tbilisi/"
+    },
+    "side2": {
+      "name": "Dila Gori",
+      "url": "https://www.scorebat.com/live-stream/dila-gori/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og797583.jpeg",
+    "title": "Lokomotiv Tbilisi - Dila Gori",
+    "url": "https://www.scorebat.com/dila-gori-vs-lokomotiv-tbilisi-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5c8a7d258a/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 3119,
+      "name": "ENGLAND: Super League - Women",
+      "url": "https://www.scorebat.com/england-super-league--women-live-scores/"
+    },
+    "date": "2019-10-27T15:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/888218/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "West Ham W",
+      "url": "https://www.scorebat.com/live-stream/west-ham-w/"
+    },
+    "side2": {
+      "name": "Chelsea W",
+      "url": "https://www.scorebat.com/live-stream/chelsea-w/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og888218.jpeg",
+    "title": "West Ham W - Chelsea W",
+    "url": "https://www.scorebat.com/chelsea-w-vs-west-ham-w-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5c7d7c379e/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-2 Ji So-yun  72'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 11,
+      "name": "GERMANY: Bundesliga",
+      "url": "https://www.scorebat.com/germany-bundesliga-live-scores/"
+    },
+    "date": "2019-10-27T14:30:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/823151/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Wolfsburg",
+      "url": "https://www.scorebat.com/live-stream/wolfsburg/"
+    },
+    "side2": {
+      "name": "Augsburg",
+      "url": "https://www.scorebat.com/live-stream/augsburg/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og823151.jpeg",
+    "title": "Wolfsburg - Augsburg",
+    "url": "https://www.scorebat.com/augsburg-vs-wolfsburg-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5c5fe8f02e/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5c306c03ab/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-0 João Victor 84'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 3119,
+      "name": "ENGLAND: Super League - Women",
+      "url": "https://www.scorebat.com/england-super-league--women-live-scores/"
+    },
+    "date": "2019-10-27T14:30:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/888215/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Arsenal W",
+      "url": "https://www.scorebat.com/live-stream/arsenal-w/"
+    },
+    "side2": {
+      "name": "Manchester City W",
+      "url": "https://www.scorebat.com/live-stream/manchester-city-w/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og888215.jpeg",
+    "title": "Arsenal W - Manchester City W",
+    "url": "https://www.scorebat.com/arsenal-w-vs-manchester-city-w-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5c315db7a0/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-0 Miedema 43'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 14,
+      "name": "SPAIN: La Liga",
+      "url": "https://www.scorebat.com/spain-la-liga-live-scores/"
+    },
+    "date": "2019-10-27T13:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/826597/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Granada CF",
+      "url": "https://www.scorebat.com/live-stream/granada-cf/"
+    },
+    "side2": {
+      "name": "Real Betis",
+      "url": "https://www.scorebat.com/live-stream/real-betis/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og826597.jpeg",
+    "title": "Granada CF - Real Betis",
+    "url": "https://www.scorebat.com/granada-cf-vs-real-betis-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5bec491bd8/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 15,
+      "name": "ENGLAND: Premier League",
+      "url": "https://www.scorebat.com/england-premier-league-live-scores/"
+    },
+    "date": "2019-10-27T14:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/820945/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Newcastle United",
+      "url": "https://www.scorebat.com/live-stream/newcastle-united/"
+    },
+    "side2": {
+      "name": "Wolves",
+      "url": "https://www.scorebat.com/live-stream/wolves/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og820945.jpeg",
+    "title": "Newcastle United - Wolves",
+    "url": "https://www.scorebat.com/newcastle-united-vs-wolves-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5be7770a26/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 1139,
+      "name": "ARMENIA: Premier League",
+      "url": "https://www.scorebat.com/armenia-premier-league-live-scores/"
+    },
+    "date": "2019-10-27T12:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/847848/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Ararat",
+      "url": "https://www.scorebat.com/live-stream/ararat/"
+    },
+    "side2": {
+      "name": "Pyunik",
+      "url": "https://www.scorebat.com/live-stream/pyunik/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og847848.jpeg",
+    "title": "Ararat - Pyunik",
+    "url": "https://www.scorebat.com/ararat-vs-pyunik-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5ad682054b/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 3,
+      "name": "RUSSIA: Premier League",
+      "url": "https://www.scorebat.com/russia-premier-league-live-scores/"
+    },
+    "date": "2019-10-27T11:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/824105/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Kr. Sovetov",
+      "url": "https://www.scorebat.com/live-stream/kr-sovetov/"
+    },
+    "side2": {
+      "name": "Zenit",
+      "url": "https://www.scorebat.com/live-stream/zenit/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og824105.jpeg",
+    "title": "Kr. Sovetov - Zenit",
+    "url": "https://www.scorebat.com/kr-sovetov-vs-zenit-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5ad61c9af0/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5a0a356eb5/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db59b3557c30/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db585d4e85f0/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "0-1 Yuri Zhirkov 28'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 14,
+      "name": "SPAIN: La Liga",
+      "url": "https://www.scorebat.com/spain-la-liga-live-scores/"
+    },
+    "date": "2019-10-27T11:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/826596/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Celta Vigo",
+      "url": "https://www.scorebat.com/live-stream/celta-vigo/"
+    },
+    "side2": {
+      "name": "Real Sociedad",
+      "url": "https://www.scorebat.com/live-stream/real-sociedad/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og826596.jpeg",
+    "title": "Celta Vigo - Real Sociedad",
+    "url": "https://www.scorebat.com/celta-vigo-vs-real-sociedad-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5ad5a38cb4/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5946a6b3c0/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db590bb87dd5/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "0-1 Isak 82'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 13,
+      "name": "ITALY: Serie A",
+      "url": "https://www.scorebat.com/italy-serie-a-live-scores/"
+    },
+    "date": "2019-10-27T11:30:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/865540/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Bologna",
+      "url": "https://www.scorebat.com/live-stream/bologna/"
+    },
+    "side2": {
+      "name": "Sampdoria",
+      "url": "https://www.scorebat.com/live-stream/sampdoria/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og865540.jpeg",
+    "title": "Bologna - Sampdoria",
+    "url": "https://www.scorebat.com/bologna-vs-sampdoria-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5ad464b108/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db59b588ed5d/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db596f72cdc5/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "2-1 Bani 78'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db58fc7b82a0/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-0 Palacio 48'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 1422,
+      "name": "LITHUANIA: 1 Lyga",
+      "url": "https://www.scorebat.com/lithuania-1-lyga-live-scores/"
+    },
+    "date": "2019-10-27T11:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/815677/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Dainava",
+      "url": "https://www.scorebat.com/live-stream/dainava/"
+    },
+    "side2": {
+      "name": "Banga",
+      "url": "https://www.scorebat.com/live-stream/banga/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og815677.jpeg",
+    "title": "Dainava - Banga",
+    "url": "https://www.scorebat.com/banga-vs-dainava-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db5a1400947e/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 72,
+      "name": "ENGLAND: Championship",
+      "url": "https://www.scorebat.com/england-championship-live-scores/"
+    },
+    "date": "2019-10-27T12:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/895695/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Swansea City",
+      "url": "https://www.scorebat.com/live-stream/swansea-city/"
+    },
+    "side2": {
+      "name": "Cardiff City",
+      "url": "https://www.scorebat.com/live-stream/cardiff-city/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og895695.jpeg",
+    "title": "Swansea City - Cardiff City",
+    "url": "https://www.scorebat.com/cardiff-city-vs-swansea-city-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db59a8b110c2/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-0 Ben Wilmot 24'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 1131,
+      "name": "KAZAKHSTAN: Premier League",
+      "url": "https://www.scorebat.com/kazakhstan-premier-league-live-scores/"
+    },
+    "date": "2019-10-27T09:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/891336/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Zhetysu",
+      "url": "https://www.scorebat.com/live-stream/zhetysu/"
+    },
+    "side2": {
+      "name": "Taraz",
+      "url": "https://www.scorebat.com/live-stream/taraz/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og891336.jpeg",
+    "title": "Zhetysu - Taraz",
+    "url": "https://www.scorebat.com/taraz-vs-zhetysu-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db58df228ee3/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 1212,
+      "name": "GEORGIA: Erovnuli Liga",
+      "url": "https://www.scorebat.com/georgia-erovnuli-liga-live-scores/"
+    },
+    "date": "2019-10-27T10:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/797581/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Rustavi",
+      "url": "https://www.scorebat.com/live-stream/rustavi/"
+    },
+    "side2": {
+      "name": "Torpedo K.",
+      "url": "https://www.scorebat.com/live-stream/torpedo-k/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og797581.jpeg",
+    "title": "Rustavi - Torpedo K.",
+    "url": "https://www.scorebat.com/rustavi-vs-torpedo-k-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db58df039467/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 14,
+      "name": "SPAIN: La Liga",
+      "url": "https://www.scorebat.com/spain-la-liga-live-scores/"
+    },
+    "date": "2019-10-26T20:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/826594/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Atletico Madrid",
+      "url": "https://www.scorebat.com/live-stream/atletico-madrid/"
+    },
+    "side2": {
+      "name": "Athletic Bilbao",
+      "url": "https://www.scorebat.com/live-stream/athletic-bilbao/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og826594.jpeg",
+    "title": "Atletico Madrid - Athletic Bilbao",
+    "url": "https://www.scorebat.com/athletic-bilbao-vs-atletico-madrid-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db4edf3671ad/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db4b2b1805dc/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db4ab2cd84a1/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "2-0 Morata 64'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db49ed7c4e5e/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-0 Saúl 28'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 15,
+      "name": "ENGLAND: Premier League",
+      "url": "https://www.scorebat.com/england-premier-league-live-scores/"
+    },
+    "date": "2019-10-26T17:30:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/820942/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Burnley",
+      "url": "https://www.scorebat.com/live-stream/burnley/"
+    },
+    "side2": {
+      "name": "Chelsea",
+      "url": "https://www.scorebat.com/live-stream/chelsea/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og820942.jpeg",
+    "title": "Burnley - Chelsea",
+    "url": "https://www.scorebat.com/burnley-vs-chelsea-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db4b55bb0b18/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db48d4ddcf2b/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "2-4 McNeil 89'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db48c921cd80/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-4 Rodriguez 86'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db4864f87930/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "0-4 Willian 58'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db4856570b74/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "0-3 Pulisic 56'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db47f17722a1/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "0-2 Pulisic 45'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db4798883890/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "0-1 Pulisic 21'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 13,
+      "name": "ITALY: Serie A",
+      "url": "https://www.scorebat.com/italy-serie-a-live-scores/"
+    },
+    "date": "2019-10-26T17:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/865544/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Inter Milan",
+      "url": "https://www.scorebat.com/live-stream/inter-milan/"
+    },
+    "side2": {
+      "name": "Parma",
+      "url": "https://www.scorebat.com/live-stream/parma/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og865544.jpeg",
+    "title": "Inter Milan - Parma",
+    "url": "https://www.scorebat.com/inter-milan-vs-parma-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db49979da954/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db47f61cee12/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "2-2 Lukaku 56'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db475a186ab1/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-2 Gervinho 30'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db474986e790/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-1 Karamoh 26'"
+      },
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db4744fbb632/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "1-0 Antonia Candreva 23'"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 11,
+      "name": "GERMANY: Bundesliga",
+      "url": "https://www.scorebat.com/germany-bundesliga-live-scores/"
+    },
+    "date": "2019-10-26T14:30:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/823155/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Schalke",
+      "url": "https://www.scorebat.com/live-stream/schalke/"
+    },
+    "side2": {
+      "name": "Borussia Dortmund",
+      "url": "https://www.scorebat.com/live-stream/borussia-dortmund/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og823155.jpeg",
+    "title": "Schalke - Borussia Dortmund",
+    "url": "https://www.scorebat.com/borussia-dortmund-vs-schalke-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db46845838a8/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 2648,
+      "name": "KOREA REP.: K-League: Relegation Round",
+      "url": "https://www.scorebat.com/korea-rep-kleague-relegation-round-live-scores/"
+    },
+    "date": "2019-10-27T06:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/898019/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Gyeongnam FC",
+      "url": "https://www.scorebat.com/live-stream/gyeongnam-fc/"
+    },
+    "side2": {
+      "name": "Jeju United",
+      "url": "https://www.scorebat.com/live-stream/jeju-united/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og898019.jpeg",
+    "title": "Gyeongnam FC - Jeju United",
+    "url": "https://www.scorebat.com/gyeongnam-fc-vs-jeju-united-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db6037444dd3/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 2648,
+      "name": "KOREA REP.: K-League: Relegation Round",
+      "url": "https://www.scorebat.com/korea-rep-kleague-relegation-round-live-scores/"
+    },
+    "date": "2019-10-27T05:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/898018/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Sangju Sangmu",
+      "url": "https://www.scorebat.com/live-stream/sangju-sangmu/"
+    },
+    "side2": {
+      "name": "Seongnam",
+      "url": "https://www.scorebat.com/live-stream/seongnam/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og898018.jpeg",
+    "title": "Sangju Sangmu - Seongnam",
+    "url": "https://www.scorebat.com/sangju-sangmu-vs-seongnam-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db6036e69880/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      }
+    ]
+  },
+  {
+    "competition": {
+      "id": 3513,
+      "name": "KOREA REPUBLIC: K-League 2",
+      "url": "https://www.scorebat.com/korea-republic-kleague-2-live-scores/"
+    },
+    "date": "2019-10-27T04:00:00+0000",
+    "embed": "<iframe src='https://www.scorebat.com/embed/g/795878/?s=2' frameborder='0' width='560' height='590' allowfullscreen allow='autoplay; fullscreen' style='width:560px;height:590px;overflow:hidden;display:block;' class='_scorebatEmbeddedPlayer_'></iframe><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://www.scorebat.com/embed/embed.js?v=mto'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'scorebat-jssdk'));</script>",
+    "side1": {
+      "name": "Suwon City",
+      "url": "https://www.scorebat.com/live-stream/suwon-city/"
+    },
+    "side2": {
+      "name": "Gwangju Sangmu",
+      "url": "https://www.scorebat.com/live-stream/gwangju-sangmu/"
+    },
+    "thumbnail": "https://www.scorebat.com/og/m/og795878.jpeg",
+    "title": "Suwon City - Gwangju Sangmu",
+    "url": "https://www.scorebat.com/gwangju-sangmu-vs-suwon-city-live-stream/",
+    "videos": [
+      {
+        "embed": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://www.scorebat.com/embed/v/5db6036a91ab5/?s=2' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+        "title": "Highlights"
+      }
+    ]
+  }
+]

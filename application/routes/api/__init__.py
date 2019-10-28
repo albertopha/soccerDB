@@ -1,1 +1,1 @@
-from soccerDB.application.routes.api.api import api_routes
+from .api import api_routes

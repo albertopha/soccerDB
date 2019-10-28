@@ -1,1 +1,1 @@
-from soccerDB.application import app
+from .application import app

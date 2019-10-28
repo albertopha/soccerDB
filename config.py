@@ -7,6 +7,7 @@ class Config(object):
     Minimal MongoDB settings
     """
     SECRET_KEY = os.environ.get('SECRET_KEY') or "secret_string"
-
-    MONGODB_SETTINGS = {'db': 'UTA_Enrollment'}
-    # OPTIONAL: 'host':'mongodb://localhost:27017/UTAEnrollment'
+    MONGODB_SETTINGS = {
+        'db': 'soccerdb',
+        'host': 'mongodb://localhost:27017/soccerdb'
+    }
