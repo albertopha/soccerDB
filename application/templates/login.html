@@ -1,0 +1,29 @@
+{% extends "index.html" %}
+
+{% block content %}
+<h1>{{title}}</h1>
+
+<div class="row">
+    <div class="col-md-6 offset-md-3">
+        <form>
+            {{form.hidden_tag()}}
+            <p>
+                {{form.email.label}} <br/>
+                {{form.email(size=35)}}
+            </p>
+            <p>
+                {{ form.password.label }} <br/>
+                {{ form.password }}
+            </p>
+            <p>
+                {{ form.remember_me.label }} <br/>
+                {{ form.remember_me }}
+            </p>
+            <p>
+                {{ form.submit.label }} <br/>
+                {{ form.submit() }}
+            </p>
+        </form>
+    </div>
+</div>
+{% endblock %}
