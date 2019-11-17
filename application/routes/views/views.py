@@ -7,16 +7,29 @@ view_routes = Blueprint('view_routes', __name__,
                         template_folder='templates')
 
 
-@view_routes.route('/', defaults={"page": "home"})
-@view_routes.route('/<page>')
-def show(page):
+@view_routes.route('/')
+def home():
     try:
-        if page == 'login':
-            form = LoginForm()
-            if form.validate_on_submit():
-                flash("You are successfully logged in!")
-                return redirect("/")
-            return render_template("login.html", title="Login", form=form, login=True)
         return render_template('index.html')
+    except TemplateNotFound:
+        abort(500)
+
+
+@view_routes.route('/login')
+def login():
+    try:
+        form = LoginForm()
+        if form.validate_on_submit():
+            flash('You are successfully logged in!')
+            return redirect("/")
+        return render_template('login.html', title='Login', form=form, login=True)
+    except TemplateNotFound:
+        abort(500)
+
+
+@view_routes.route('/dashboard')
+def dashboard():
+    try:
+        return render_template('dashboard.html', title='Dashboard')
     except TemplateNotFound:
         abort(500)

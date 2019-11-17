@@ -1,1 +1,1 @@
-from .api import api_routes
+from .api import blueprint as api_routes
