@@ -27,3 +27,4 @@ class SoccerInfo(db.Document):
     title = db.StringField()
     url = db.StringField()
     videos = db.EmbeddedDocumentListField(HighlightVideo)
+    user_id = db.IntField(unique=True)

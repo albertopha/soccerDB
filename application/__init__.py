@@ -9,7 +9,9 @@ db = MongoEngine()
 db.init_app(app)
 
 from .routes import api_routes, view_routes
-print(app.url_map)
 
 app.register_blueprint(api_routes, url_prefix='/api')
 app.register_blueprint(view_routes, url_prefix='/views')
+
+print('url map: ')
+print(app.url_map)

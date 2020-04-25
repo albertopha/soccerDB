@@ -1,5 +1,5 @@
 import requests
-from flask import Blueprint, jsonify
+from flask import Blueprint, jsonify, request
 from soccerDB.application.model import User, SoccerInfo
 from flask_restplus import Api, Resource
 
@@ -27,7 +27,7 @@ class V1SoccerInfosApi(Resource):
 ################# /api/v1/users ##################
 
 @api_routes.route('/v1/users')
-class V1UsersApi(Resource):
+class V1UsersList(Resource):
 
     def get(self):
         """
@@ -42,9 +42,26 @@ class V1UsersApi(Resource):
         Creates a user
         :return: void
         """
-        user1 = User(user_id=4, first_name="Albert4", last_name="Oh2", email="albert@email.com", password="password")
-        print(user1)
-        user1.save()
-        return jsonify({"message": "successfully created!"})
+        data = request.get_json()
+        try:
+            user = User(
+                user_id=data['user_id'],
+                first_name=data['first_name'],
+                last_name=data['last_name'],
+                email=data['email'],
+                password=data['password']
+            )
+            user.save()
+            return {"message": "successfully created!"}, 201
+        except Exception as err:
+            return {"message": "Failed to create: {0}".format(err)}, 405
+
+
+@api_routes.route('/v1/users/<user_id>')
+class V1Users(Resource):
+
+    def get(self, user_id):
+        return jsonify(User.objects(user_id__exact=user_id))
+
 
 ##################################################
