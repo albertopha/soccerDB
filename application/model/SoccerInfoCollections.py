@@ -1,24 +1,9 @@
 from soccerDB.application import db
+from . import Competition, Side, HighlightVideo
 import datetime
 
 
-class Competition(db.EmbeddedDocument):
-    id = db.IntField()
-    name = db.StringField(max_length=200)
-    url = db.StringField()
-
-
-class Side(db.EmbeddedDocument):
-    name = db.StringField(max_length=200)
-    url = db.StringField()
-
-
-class HighlightVideo(db.EmbeddedDocument):
-    embed = db.StringField()
-    title = db.StringField()
-
-
-class SoccerInfo(db.Document):
+class SelectedSoccerInfo(db.EmbeddedDocument):
     competition = db.EmbeddedDocumentField(Competition)
     date = db.StringField()
     embed = db.StringField()
@@ -30,3 +15,7 @@ class SoccerInfo(db.Document):
     videos = db.EmbeddedDocumentListField(HighlightVideo)
     last_refreshed = db.DateTimeField(default=datetime.datetime.utcnow)
     user_id = db.IntField(required=False)
+
+
+class SoccerInfoCollections(db.Document):
+    favorites = db.ListField(db.EmbeddedDocumentField(SelectedSoccerInfo))

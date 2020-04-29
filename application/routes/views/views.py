@@ -27,6 +27,14 @@ def login():
         abort(500)
 
 
+@view_routes.route('/signup')
+def signup():
+    try:
+        return render_template('signup.html', title='Dashboard')
+    except TemplateNotFound:
+        abort(500)
+
+
 @view_routes.route('/dashboard')
 def dashboard():
     try:
