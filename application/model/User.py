@@ -1,6 +1,6 @@
 from soccerDB.application import db
 from . import SoccerInfo
-import datetime
+from datetime import datetime
 
 
 class User(db.Document):
@@ -9,5 +9,5 @@ class User(db.Document):
     last_name = db.StringField(max_length=50)
     email = db.StringField(max_length=30)
     password = db.StringField(max_length=30)
-    last_login = db.DateTimeField(default=datetime.datetime.utcnow)
-    favourites = db.ListField(db.Document(SoccerInfo))
+    last_login = db.DateTimeField(default=datetime.utcnow)
+    favourites = db.ListField(SoccerInfo)

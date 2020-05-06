@@ -1,5 +1,5 @@
 import requests
-import datetime
+from _datetime import datetime, timedelta
 from flask import Blueprint, jsonify, request
 from soccerDB.application.model import User, SoccerInfo
 from flask_restplus import Api, Resource
@@ -9,10 +9,11 @@ from soccerDB.application.model.SoccerInfo import Side, HighlightVideo, Competit
 blueprint = Blueprint('api_routes', __name__)
 api_routes = Api(blueprint)
 
-storage = dict()
+storage = dict(
+    cached_soccerInfos=[]
+)
 
 ############## /api/v1/soccerinfos ###############
-
 @api_routes.route('/v1/soccerinfos')
 class V1SoccerInfos(Resource):
     url = "https://www.scorebat.com/video-api/v1/"
@@ -22,29 +23,43 @@ class V1SoccerInfos(Resource):
         Fetches/Refreshes soccerInfo (when last_refreshed is over a day)
         :return: Json with most recent soccerInfos
         """
+        # Check if last_refreshed is saved in the storage
+        if "last_refreshed" in storage:
+            self.refresh_infos(storage["last_refreshed"])
+        else:
+            # last_refreshed not found in the storage
+            soccerInfo = SoccerInfo.objects.first()
+            if soccerInfo and soccerInfo["last_refreshed"]:
+                self.refresh_infos(soccerInfo["last_refreshed"])
+            else:
+                self.refresh_infos()
+        return storage["cached_soccerInfos"], 200
 
-        response = requests.get(self.url)
-        soccerInfos = response.json()
-        # current_time = datetime.datetime.utcnow().date()
-        #
-        # if "last_refreshed" not in storage:
-        #     soccerInfos = SoccerInfo.objects.find.all()
-        #     last_refreshed_time = soccerInfos[0]["last_refreshed"]
-        #
-        #     if last_refreshed_time < current_time:
-        #         response = requests.get(self.url)
-        #         soccerInfo = response.json()
-        # elif storage["last_refreshed"] < current_time:
+    def refresh_infos(self, saved_time=None):
+        current_time = datetime.utcnow()
+        new_soccerInfos = requests.get(self.url).json()
+        if not saved_time:
+            self.save_soccerInfos(new_soccerInfos, True)
+        elif current_time > saved_time + timedelta(days=1):
+            self.save_soccerInfos(new_soccerInfos)
 
-        # response = requests.get(self.url)
-        # soccerInfo = response.json()
+        soccer_infos = jsonify(SoccerInfo.objects.all()).get_json()
+        if soccer_infos and len(soccer_infos) > 0:
+            storage["last_refreshed"] = soccer_infos[0]["last_refreshed"]
+            storage["cached_soccerInfos"] = soccer_infos
 
+    def save_soccerInfos(self, soccerInfos, skip_drop=False):
+        """
+        Stores list of soccer Infos into MongoDB
+        :param soccerInfos: list of soccer infos
+        :return: None
+        """
         # Drops existing collection to prevent conflicts
-        SoccerInfo.drop_collection()
+        if not skip_drop:
+            SoccerInfo.drop_collection()
 
         # Refill collection with new SoccerInfo documents
         for info in soccerInfos:
-            print(info["competition"]["id"])
             competition = Competition(
                 id=info["competition"]["id"],
                 name=info["competition"]["name"],
@@ -58,7 +73,6 @@ class V1SoccerInfos(Resource):
             for video in info["videos"]:
                 highlight = HighlightVideo(embed=video["embed"], title=video["title"])
                 videos.append(highlight)
-            print(videos)
 
             soccerInfo = SoccerInfo(
                 competition=competition,
@@ -70,13 +84,11 @@ class V1SoccerInfos(Resource):
                 title=info["title"],
                 url=info["url"],
                 videos=videos,
-                last_refreshed=datetime.datetime.utcnow(),
+                last_refreshed=datetime.utcnow(),
                 user_id=None
             )
 
-            print(soccerInfo)
             soccerInfo.save()
-        return jsonify(soccerInfos)
 
 
 @api_routes.route('/v1/soccerinfos/favorites/<user_id>')
@@ -87,6 +99,15 @@ class V1SoccerInfosFavorites(Resource):
         return user.favourites
 
     def post(self, user_id):
+        user = User.objects(user_id__exact=user_id)
+        ids = request.get_json()["ids"]
+        soccer_infos = []
+        for id in ids:
+            soccer_info = SoccerInfo.objects(id__exact=id)
+            soccer_infos.append(soccer_info)
+
+        user["favourites"].extend(soccer_infos)
+        user.update(set__favourites=user["favourites"])
         return 201
 
 
@@ -100,7 +121,6 @@ class V1UsersList(Resource):
         Retrieve all users
         :return: all users
         """
-        print(User.objects.all())
         return jsonify(User.objects.all())
 
     def post(self):
@@ -143,7 +163,7 @@ class V1Users(Resource):
         """
         try:
             data = request.get_json()
-            date = datetime.datetime.fromtimestamp(data['last_login']['$date'] / 1e3)
+            date = datetime.fromtimestamp(data['last_login']['$date'] / 1e3)
             user = User.objects(user_id__exact=user_id)
             user.update(
                 set__user_id=data['user_id'],
@@ -184,7 +204,7 @@ class V1Users(Resource):
                 user.update(set__password=data['password'])
 
             if 'last_login' in data:
-                date = datetime.datetime.fromtimestamp(data['last_login']['$date'] / 1e3)
+                date = datetime.fromtimestamp(data['last_login']['$date'] / 1e3)
                 user.update(set__last_login=date)
 
             return {"message": "successfully patched!"}, 201
