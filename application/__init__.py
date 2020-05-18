@@ -1,9 +1,11 @@
 from flask import Flask
 from soccerDB.config import Config
 from flask_mongoengine import MongoEngine
+from flask_cors import CORS
 
 app = Flask(__name__)
 app.config.from_object(Config)
+CORS(app)
 
 db = MongoEngine()
 db.init_app(app)

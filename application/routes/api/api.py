@@ -38,9 +38,14 @@ class V1SoccerInfos(Resource):
     def refresh_infos(self, saved_time=None):
         current_time = datetime.utcnow()
         new_soccerInfos = requests.get(self.url).json()
-        if not saved_time:
+        compare_time = saved_time
+        if isinstance(saved_time, dict):
+            compare_time = datetime.fromtimestamp(saved_time['$date'] / 1e3)
+        print('compare_time --> ', compare_time)
+        print('compare_time + timedelta(days=1) = ', compare_time + timedelta(days=1))
+        if not compare_time:
             self.save_soccerInfos(new_soccerInfos, True)
-        elif current_time > saved_time + timedelta(days=1):
+        elif current_time > compare_time + timedelta(days=1):
             self.save_soccerInfos(new_soccerInfos)
 
         soccer_infos = jsonify(SoccerInfo.objects.all()).get_json()
